@@ -1,0 +1,63 @@
+<arr> <name> <string>,<namestr>[,<string>]
+<arradd> <name> <string>,<namestr>[,<string>]
+<arrrem> <name> <string>,<namestr>[,<string>]
+<bor> <name> <string>,<namestr>[,<string>]
+<boradd> <name> <string>,<namestr>[,<string>]
+<borgtn> <name> <num> <stringvar>[
+<borgts> <name> <stringvar> <num>
+<borrem> <name> <num1>,<num2>[,<num3>]
+<borrem> <name> <string>,<namestr>[,<string>]
+<chg> <name>
+<cln> <name> <oname>
+<cls> <var file>
+<end>
+<endenv>
+<env> <name>
+<fts> <name str> <name frame>
+<get> <name> <number of flag>
+<jmp> <name>
+<met> <name>
+<mth> <name> 1 2 + 3 * 4 5 6 - - / 2 %
+<mts> <namestr> <name math>
+<nop>
+<nxt> <var file> <math>
+<obj> <name> maxcnt <namearr>,maxcnt <namearr1> maxcnt <namearr2>, maxcnt <nameobj>, ..., ..., ...[;]<endl>
+<opnrdf> <var> <stringvar>
+<opnwrf> <var> <stringvar>
+<pop> <rname>
+<prt> <var> <frm> <math>
+<prv> <var file> <math>
+<psh> <name>
+<run> <name>
+<scndef> <stringvar> <math> <filevar>
+<scnfltfil> <frame> <object> <filevar>
+<scnfltstr> <frame> <object> <stringvar>
+<set> <number of flag> <flag value>
+<stm> <name math> <mame str>
+<str> <name> <\><symbol><\><symbol>...
+<tstabv> <A> <B>
+<tstabvoridt> <A> <B>
+<tsteql> <A> <B>
+<tstflg> <number of flag>
+<tstidt> <A> <B>
+<tstis*> <anything>
+<tstlrg> <A> <B>
+<tstlrgoreql> <A> <B>
+<tstnil> <rname>
+<tststk>
+<txtctn> <str out> <strA var> <strB var>
+<txtdel> <stringvar> <math1> <math2>
+<txtfnd> <vectorvar> <stringvar> <substr>
+<txtlen> <math> <stringvar>
+<txtspl> <vectorvar> <stringvar> <math>
+<var> <rname> <name>
+<vct> <namevct> <math or numb>
+<vctget> <namevct> <var> <num>
+<vctgsz> <namevct> <num>
+<vctpopbck> <namevct> <var>
+<vctpopfrt> <namevct> <var>
+<vctpshbck> <namevct> <elem>
+<vctpshfrt> <namevct> <elem>
+<vctrsz> <namevct> <num>
+<vctset> <namevct> <num> <elem>
+<wrt> <var file> <any thing>

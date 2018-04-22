@@ -1,0 +1,36 @@
+env begin
+  str space \ ;SPACE!!!
+  arr digits \0,\1,\2,\3,\4,\5,\6,\7,\8,\9
+  obj num 10 digits
+  arr sign \+, \-
+    ;reg create null arr
+    str x \x
+    arr null x
+    arrrem null x
+    ;endreg
+  obj int 1 sign 1 null, 10 digits
+    ;reg write in file and open him
+    str example \1\2\-\1\1\2
+    opnwrf f \1\.\t\x\t
+    wrt f example
+    cls f
+    opnrdf f \1\.\t\x\t
+    ;endreg
+  opnwrf f2 \2\.\t\x\t
+  scnfltfil fnum num f
+  jmp fail
+  fts snum fnum
+  wrt f2 snum
+  wrt f2 space
+  met fail
+  scnfltfil fint int f
+  ;scndef stri 4 f
+  ;wrt f2 stri
+  jmp exit
+  fts sint fint
+  wrt f2 sint
+  met exit
+  cls f2
+  cls f
+  end
+endenv

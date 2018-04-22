@@ -1,0 +1,51 @@
+env Main
+	opnrdf exampl \G\C\P\_\F\o\r\m\C\o\m\p\o\n\e\n\t\.\h
+	str name \G\C\P\_\F\o\r\m\C\o\m\p\o\n\e\n\t\_\u\n\c\o\m\m\e\n\t\.\h
+	psh exampl
+	psh name
+	run DeleteCommentars
+	end
+endenv
+env DeleteCommentars
+	pop out_name
+	pop file
+	opnwrf out_file out_name
+	arr linecomm \/\/
+	arr blockcomm1 \/\*
+	arr blockcomm2 \*\/
+	arr allsymbols \A, \B, \C, \D, \E, \F, \G, \H, \I, \J, \K, \L, \M, \N, \O, \P, \Q, \R, \S, \T, \U, \V, \W, \X, \Y, \Z, \a, \b, \c, \d, \e, \f, \g, \h, \i, \j, \k, \l, \m, \n, \o, \p, \q, \r, \s, \t, \u, \v, \w, \x, \y, \z, \0, \1, \2, \3, \4, \5, \6, \7, \8, \9, \,, \., \;, \+, \-, \*, \^, \&, \=, \~, \!, \&, \/, \<, \>, \(, \), \{, \}, \[, \], \|, \%, \?, \', \", \:, \_, \ , \\;
+	arr newline \
+;new line
+	obj lcomm 1 linecomm, 300 allsymbols, 1 new line
+	obj allsymbols_newline 1 allsymbols 1 newline
+	obj bcomm 1 blockcomm1, 1000 allsymbols_newline, 1 blockcomm2
+	obj letter 1 allsymbols
+	met while_not_EOF
+		scnfltfil Let letter file
+			jmp EOF
+		prv file 1
+		scnfltfil LineComm lcomm file
+			jmp NoLcomm
+		jmp while_not_EOF
+		;if no line commentar
+		met NoLcomm
+		scnfltfil BlockComm bcomm file
+			jmp NoBcomm
+		jmp while_not_EOF
+		met NoBcomm
+		nxt file 1
+		fts strLetter Let
+		wrt file strLetter
+		jmp while_not_EOF
+	met EOF
+	end
+endenv
+; nop arr arradd arrrem bor boradd borrem borrem
+; borgts borgtn obj nameobj env endenv run chg met
+; jmp end psh cln var pop mth set get tstnil tstlss
+; tstlrg tsteql tststk tstisa tstiso tstisi tstisf
+; tstiss tstisc tstisv tstflg tstblw tstabv tstidt
+; str mts fts stm vct vctpshbck vctpshfrt vctpopbck
+; vctpopfrt vctset vctget vctgsz vctrsz txtlen txtctn
+; txtfnd txtspl txtdel prt opnrdf opnwrf cls nxt prv
+; wrt scndef stringvar scnfltfil scnfltstr

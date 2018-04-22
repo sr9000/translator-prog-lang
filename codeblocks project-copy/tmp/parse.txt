@@ -1,0 +1,1442 @@
+token #0
+type: n
+content: env
+-------
+token #1
+type: n
+content: Main
+-------
+token #2
+type: e
+content: 
+
+-------
+token #3
+type: n
+content: opnrdf
+-------
+token #4
+type: n
+content: exampl
+-------
+token #5
+type: s
+content: GCP_FormComponent.h
+-------
+token #6
+type: e
+content: 
+
+-------
+token #7
+type: n
+content: str
+-------
+token #8
+type: n
+content: name
+-------
+token #9
+type: s
+content: GCP_FormComponent_uncomment.h
+-------
+token #10
+type: e
+content: 
+
+-------
+token #11
+type: n
+content: psh
+-------
+token #12
+type: n
+content: exampl
+-------
+token #13
+type: e
+content: 
+
+-------
+token #14
+type: n
+content: psh
+-------
+token #15
+type: n
+content: name
+-------
+token #16
+type: e
+content: 
+
+-------
+token #17
+type: n
+content: run
+-------
+token #18
+type: n
+content: DeleteCommentars
+-------
+token #19
+type: e
+content: 
+
+-------
+token #20
+type: n
+content: end
+-------
+token #21
+type: e
+content: 
+
+-------
+token #22
+type: n
+content: endenv
+-------
+token #23
+type: e
+content: 
+
+-------
+token #24
+type: n
+content: env
+-------
+token #25
+type: n
+content: DeleteCommentars
+-------
+token #26
+type: e
+content: 
+
+-------
+token #27
+type: n
+content: pop
+-------
+token #28
+type: n
+content: out_name
+-------
+token #29
+type: e
+content: 
+
+-------
+token #30
+type: n
+content: pop
+-------
+token #31
+type: n
+content: file
+-------
+token #32
+type: e
+content: 
+
+-------
+token #33
+type: n
+content: opnwrf
+-------
+token #34
+type: n
+content: out_file
+-------
+token #35
+type: n
+content: out_name
+-------
+token #36
+type: e
+content: 
+
+-------
+token #37
+type: n
+content: arr
+-------
+token #38
+type: n
+content: linecomm
+-------
+token #39
+type: s
+content: //
+-------
+token #40
+type: e
+content: 
+
+-------
+token #41
+type: n
+content: arr
+-------
+token #42
+type: n
+content: blockcomm1
+-------
+token #43
+type: s
+content: /*
+-------
+token #44
+type: e
+content: 
+
+-------
+token #45
+type: n
+content: arr
+-------
+token #46
+type: n
+content: blockcomm2
+-------
+token #47
+type: s
+content: */
+-------
+token #48
+type: e
+content: 
+
+-------
+token #49
+type: n
+content: arr
+-------
+token #50
+type: n
+content: allsymbols
+-------
+token #51
+type: s
+content: A
+-------
+token #52
+type: c
+content: ,
+-------
+token #53
+type: s
+content: B
+-------
+token #54
+type: c
+content: ,
+-------
+token #55
+type: s
+content: C
+-------
+token #56
+type: c
+content: ,
+-------
+token #57
+type: s
+content: D
+-------
+token #58
+type: c
+content: ,
+-------
+token #59
+type: s
+content: E
+-------
+token #60
+type: c
+content: ,
+-------
+token #61
+type: s
+content: F
+-------
+token #62
+type: c
+content: ,
+-------
+token #63
+type: s
+content: G
+-------
+token #64
+type: c
+content: ,
+-------
+token #65
+type: s
+content: H
+-------
+token #66
+type: c
+content: ,
+-------
+token #67
+type: s
+content: I
+-------
+token #68
+type: c
+content: ,
+-------
+token #69
+type: s
+content: J
+-------
+token #70
+type: c
+content: ,
+-------
+token #71
+type: s
+content: K
+-------
+token #72
+type: c
+content: ,
+-------
+token #73
+type: s
+content: L
+-------
+token #74
+type: c
+content: ,
+-------
+token #75
+type: s
+content: M
+-------
+token #76
+type: c
+content: ,
+-------
+token #77
+type: s
+content: N
+-------
+token #78
+type: c
+content: ,
+-------
+token #79
+type: s
+content: O
+-------
+token #80
+type: c
+content: ,
+-------
+token #81
+type: s
+content: P
+-------
+token #82
+type: c
+content: ,
+-------
+token #83
+type: s
+content: Q
+-------
+token #84
+type: c
+content: ,
+-------
+token #85
+type: s
+content: R
+-------
+token #86
+type: c
+content: ,
+-------
+token #87
+type: s
+content: S
+-------
+token #88
+type: c
+content: ,
+-------
+token #89
+type: s
+content: T
+-------
+token #90
+type: c
+content: ,
+-------
+token #91
+type: s
+content: U
+-------
+token #92
+type: c
+content: ,
+-------
+token #93
+type: s
+content: V
+-------
+token #94
+type: c
+content: ,
+-------
+token #95
+type: s
+content: W
+-------
+token #96
+type: c
+content: ,
+-------
+token #97
+type: s
+content: X
+-------
+token #98
+type: c
+content: ,
+-------
+token #99
+type: s
+content: Y
+-------
+token #100
+type: c
+content: ,
+-------
+token #101
+type: s
+content: Z
+-------
+token #102
+type: c
+content: ,
+-------
+token #103
+type: s
+content: a
+-------
+token #104
+type: c
+content: ,
+-------
+token #105
+type: s
+content: b
+-------
+token #106
+type: c
+content: ,
+-------
+token #107
+type: s
+content: c
+-------
+token #108
+type: c
+content: ,
+-------
+token #109
+type: s
+content: d
+-------
+token #110
+type: c
+content: ,
+-------
+token #111
+type: s
+content: e
+-------
+token #112
+type: c
+content: ,
+-------
+token #113
+type: s
+content: f
+-------
+token #114
+type: c
+content: ,
+-------
+token #115
+type: s
+content: g
+-------
+token #116
+type: c
+content: ,
+-------
+token #117
+type: s
+content: h
+-------
+token #118
+type: c
+content: ,
+-------
+token #119
+type: s
+content: i
+-------
+token #120
+type: c
+content: ,
+-------
+token #121
+type: s
+content: j
+-------
+token #122
+type: c
+content: ,
+-------
+token #123
+type: s
+content: k
+-------
+token #124
+type: c
+content: ,
+-------
+token #125
+type: s
+content: l
+-------
+token #126
+type: c
+content: ,
+-------
+token #127
+type: s
+content: m
+-------
+token #128
+type: c
+content: ,
+-------
+token #129
+type: s
+content: n
+-------
+token #130
+type: c
+content: ,
+-------
+token #131
+type: s
+content: o
+-------
+token #132
+type: c
+content: ,
+-------
+token #133
+type: s
+content: p
+-------
+token #134
+type: c
+content: ,
+-------
+token #135
+type: s
+content: q
+-------
+token #136
+type: c
+content: ,
+-------
+token #137
+type: s
+content: r
+-------
+token #138
+type: c
+content: ,
+-------
+token #139
+type: s
+content: s
+-------
+token #140
+type: c
+content: ,
+-------
+token #141
+type: s
+content: t
+-------
+token #142
+type: c
+content: ,
+-------
+token #143
+type: s
+content: u
+-------
+token #144
+type: c
+content: ,
+-------
+token #145
+type: s
+content: v
+-------
+token #146
+type: c
+content: ,
+-------
+token #147
+type: s
+content: w
+-------
+token #148
+type: c
+content: ,
+-------
+token #149
+type: s
+content: x
+-------
+token #150
+type: c
+content: ,
+-------
+token #151
+type: s
+content: y
+-------
+token #152
+type: c
+content: ,
+-------
+token #153
+type: s
+content: z
+-------
+token #154
+type: c
+content: ,
+-------
+token #155
+type: s
+content: 0
+-------
+token #156
+type: c
+content: ,
+-------
+token #157
+type: s
+content: 1
+-------
+token #158
+type: c
+content: ,
+-------
+token #159
+type: s
+content: 2
+-------
+token #160
+type: c
+content: ,
+-------
+token #161
+type: s
+content: 3
+-------
+token #162
+type: c
+content: ,
+-------
+token #163
+type: s
+content: 4
+-------
+token #164
+type: c
+content: ,
+-------
+token #165
+type: s
+content: 5
+-------
+token #166
+type: c
+content: ,
+-------
+token #167
+type: s
+content: 6
+-------
+token #168
+type: c
+content: ,
+-------
+token #169
+type: s
+content: 7
+-------
+token #170
+type: c
+content: ,
+-------
+token #171
+type: s
+content: 8
+-------
+token #172
+type: c
+content: ,
+-------
+token #173
+type: s
+content: 9
+-------
+token #174
+type: c
+content: ,
+-------
+token #175
+type: s
+content: ,
+-------
+token #176
+type: c
+content: ,
+-------
+token #177
+type: s
+content: .
+-------
+token #178
+type: c
+content: ,
+-------
+token #179
+type: s
+content: ;
+-------
+token #180
+type: c
+content: ,
+-------
+token #181
+type: s
+content: +
+-------
+token #182
+type: c
+content: ,
+-------
+token #183
+type: s
+content: -
+-------
+token #184
+type: c
+content: ,
+-------
+token #185
+type: s
+content: *
+-------
+token #186
+type: c
+content: ,
+-------
+token #187
+type: s
+content: ^
+-------
+token #188
+type: c
+content: ,
+-------
+token #189
+type: s
+content: &
+-------
+token #190
+type: c
+content: ,
+-------
+token #191
+type: s
+content: =
+-------
+token #192
+type: c
+content: ,
+-------
+token #193
+type: s
+content: ~
+-------
+token #194
+type: c
+content: ,
+-------
+token #195
+type: s
+content: !
+-------
+token #196
+type: c
+content: ,
+-------
+token #197
+type: s
+content: &
+-------
+token #198
+type: c
+content: ,
+-------
+token #199
+type: s
+content: /
+-------
+token #200
+type: c
+content: ,
+-------
+token #201
+type: s
+content: <
+-------
+token #202
+type: c
+content: ,
+-------
+token #203
+type: s
+content: >
+-------
+token #204
+type: c
+content: ,
+-------
+token #205
+type: s
+content: (
+-------
+token #206
+type: c
+content: ,
+-------
+token #207
+type: s
+content: )
+-------
+token #208
+type: c
+content: ,
+-------
+token #209
+type: s
+content: {
+-------
+token #210
+type: c
+content: ,
+-------
+token #211
+type: s
+content: }
+-------
+token #212
+type: c
+content: ,
+-------
+token #213
+type: s
+content: [
+-------
+token #214
+type: c
+content: ,
+-------
+token #215
+type: s
+content: ]
+-------
+token #216
+type: c
+content: ,
+-------
+token #217
+type: s
+content: |
+-------
+token #218
+type: c
+content: ,
+-------
+token #219
+type: s
+content: %
+-------
+token #220
+type: c
+content: ,
+-------
+token #221
+type: s
+content: ?
+-------
+token #222
+type: c
+content: ,
+-------
+token #223
+type: s
+content: '
+-------
+token #224
+type: c
+content: ,
+-------
+token #225
+type: s
+content: "
+-------
+token #226
+type: c
+content: ,
+-------
+token #227
+type: s
+content: :
+-------
+token #228
+type: c
+content: ,
+-------
+token #229
+type: s
+content: _
+-------
+token #230
+type: c
+content: ,
+-------
+token #231
+type: s
+content:  
+-------
+token #232
+type: c
+content: ,
+-------
+token #233
+type: s
+content: \
+-------
+token #234
+type: e
+content: 
+
+-------
+token #235
+type: n
+content: arr
+-------
+token #236
+type: n
+content: newline
+-------
+token #237
+type: s
+content: 
+
+-------
+token #238
+type: e
+content: 
+
+-------
+token #239
+type: n
+content: obj
+-------
+token #240
+type: n
+content: lcomm
+-------
+token #241
+type: i
+content: 1
+-------
+token #242
+type: n
+content: linecomm
+-------
+token #243
+type: c
+content: ,
+-------
+token #244
+type: i
+content: 300
+-------
+token #245
+type: n
+content: allsymbols
+-------
+token #246
+type: c
+content: ,
+-------
+token #247
+type: i
+content: 1
+-------
+token #248
+type: n
+content: new
+-------
+token #249
+type: n
+content: line
+-------
+token #250
+type: e
+content: 
+
+-------
+token #251
+type: n
+content: obj
+-------
+token #252
+type: n
+content: allsymbols_newline
+-------
+token #253
+type: i
+content: 1
+-------
+token #254
+type: n
+content: allsymbols
+-------
+token #255
+type: i
+content: 1
+-------
+token #256
+type: n
+content: newline
+-------
+token #257
+type: e
+content: 
+
+-------
+token #258
+type: n
+content: obj
+-------
+token #259
+type: n
+content: bcomm
+-------
+token #260
+type: i
+content: 1
+-------
+token #261
+type: n
+content: blockcomm1
+-------
+token #262
+type: c
+content: ,
+-------
+token #263
+type: i
+content: 1000
+-------
+token #264
+type: n
+content: allsymbols_newline
+-------
+token #265
+type: c
+content: ,
+-------
+token #266
+type: i
+content: 1
+-------
+token #267
+type: n
+content: blockcomm2
+-------
+token #268
+type: e
+content: 
+
+-------
+token #269
+type: n
+content: obj
+-------
+token #270
+type: n
+content: letter
+-------
+token #271
+type: i
+content: 1
+-------
+token #272
+type: n
+content: allsymbols
+-------
+token #273
+type: e
+content: 
+
+-------
+token #274
+type: n
+content: met
+-------
+token #275
+type: n
+content: while_not_EOF
+-------
+token #276
+type: e
+content: 
+
+-------
+token #277
+type: n
+content: scnfltfil
+-------
+token #278
+type: n
+content: Let
+-------
+token #279
+type: n
+content: letter
+-------
+token #280
+type: n
+content: file
+-------
+token #281
+type: e
+content: 
+
+-------
+token #282
+type: n
+content: jmp
+-------
+token #283
+type: n
+content: EOF
+-------
+token #284
+type: e
+content: 
+
+-------
+token #285
+type: n
+content: prv
+-------
+token #286
+type: n
+content: file
+-------
+token #287
+type: i
+content: 1
+-------
+token #288
+type: e
+content: 
+
+-------
+token #289
+type: n
+content: scnfltfil
+-------
+token #290
+type: n
+content: LineComm
+-------
+token #291
+type: n
+content: lcomm
+-------
+token #292
+type: n
+content: file
+-------
+token #293
+type: e
+content: 
+
+-------
+token #294
+type: n
+content: jmp
+-------
+token #295
+type: n
+content: NoLcomm
+-------
+token #296
+type: e
+content: 
+
+-------
+token #297
+type: n
+content: jmp
+-------
+token #298
+type: n
+content: while_not_EOF
+-------
+token #299
+type: e
+content: 
+
+-------
+token #300
+type: e
+content: 
+
+-------
+token #301
+type: n
+content: met
+-------
+token #302
+type: n
+content: NoLcomm
+-------
+token #303
+type: e
+content: 
+
+-------
+token #304
+type: n
+content: scnfltfil
+-------
+token #305
+type: n
+content: BlockComm
+-------
+token #306
+type: n
+content: bcomm
+-------
+token #307
+type: n
+content: file
+-------
+token #308
+type: e
+content: 
+
+-------
+token #309
+type: n
+content: jmp
+-------
+token #310
+type: n
+content: NoBcomm
+-------
+token #311
+type: e
+content: 
+
+-------
+token #312
+type: n
+content: jmp
+-------
+token #313
+type: n
+content: while_not_EOF
+-------
+token #314
+type: e
+content: 
+
+-------
+token #315
+type: n
+content: met
+-------
+token #316
+type: n
+content: NoBcomm
+-------
+token #317
+type: e
+content: 
+
+-------
+token #318
+type: n
+content: nxt
+-------
+token #319
+type: n
+content: file
+-------
+token #320
+type: i
+content: 1
+-------
+token #321
+type: e
+content: 
+
+-------
+token #322
+type: n
+content: fts
+-------
+token #323
+type: n
+content: strLetter
+-------
+token #324
+type: n
+content: Let
+-------
+token #325
+type: e
+content: 
+
+-------
+token #326
+type: n
+content: wrt
+-------
+token #327
+type: n
+content: file
+-------
+token #328
+type: n
+content: strLetter
+-------
+token #329
+type: e
+content: 
+
+-------
+token #330
+type: n
+content: jmp
+-------
+token #331
+type: n
+content: while_not_EOF
+-------
+token #332
+type: e
+content: 
+
+-------
+token #333
+type: n
+content: met
+-------
+token #334
+type: n
+content: EOF
+-------
+token #335
+type: e
+content: 
+
+-------
+token #336
+type: n
+content: end
+-------
+token #337
+type: e
+content: 
+
+-------
+token #338
+type: n
+content: endenv
+-------
+token #339
+type: e
+content: 
+
+-------
+token #340
+type: e
+content: 
+
+-------
+token #341
+type: e
+content: 
+
+-------
+token #342
+type: e
+content: 
+
+-------
+token #343
+type: e
+content: 
+
+-------
+token #344
+type: e
+content: 
+
+-------
+token #345
+type: e
+content: 
+
+-------
+token #346
+type: e
+content: 
+
+-------
+token #347
+type: e
+content: 
+
+-------

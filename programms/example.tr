@@ -1,0 +1,58 @@
+env HelloWorld
+  opnwrf _1.txt \1\.\t\x\t
+  str _30 \3\0
+  wrt _1.txt _30
+  cls _1.txt
+  ;read int from file
+  ;+tikttikiuk
+  ;tuituiktuik
+  ;
+  ;
+  ;
+  arr digits \0,\1,\2,\3,\4,\5,\6,\7,\8,\9
+  obj int 2 digits
+  opnrdf _1.txt \1\.\t\x\t
+  scnfltfil finteger int _1.txt
+  jmp exit
+  cls _1.txt
+  fts integer finteger
+  stm N integer
+  psh N
+  run Factorial
+  pop N
+  mts integer N
+  psh integer
+  chg Write
+  met exit
+  end
+endenv
+
+env Factorial
+  pop n
+  mth i 2
+  mth res 1
+  met cycle
+  tstlrgoreql n i
+  jmp body
+  jmp exit
+    ;reg \Body of cycle
+    met body
+      ;reg \math part of cycle
+      mth t1 res i *
+      mth t2 i 1 +
+      ;endreg
+    var res t1
+    var i t2
+    jmp cycle
+    ;endreg
+  met exit
+  psh res
+  end
+endenv
+env Write
+  pop Str
+  opnwrf file \H\e\l\l\o\ \W\o\r\l\d\.\t\x\t
+  wrt file Str
+  cls file
+  end
+endenv

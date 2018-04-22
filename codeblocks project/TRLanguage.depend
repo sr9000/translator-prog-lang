@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1384956991 source:c:\users\admin\desktop\translator\release\codeblocks project\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<string.h>
+	"TrString.h"
+	"TrMath.h"
+	"TrBor.h"
+	"TrVar.h"
+	"TrVector.h"
+	"TrFile.h"
+	"TrObject.h"
+	"TrFrame.h"
+	"TrArr.h"
+	"TrCompiler.h"
+	"TrMachine.h"
+
+1384284578 c:\users\admin\desktop\translator\release\codeblocks project\trstring.h
+
+1385076682 c:\users\admin\desktop\translator\release\codeblocks project\trmath.h
+	<stdlib.h>
+
+1384286414 c:\users\admin\desktop\translator\release\codeblocks project\trbor.h
+	"TrString.h"
+
+1384958903 c:\users\admin\desktop\translator\release\codeblocks project\trvar.h
+	"TrString.h"
+	"TrMath.h"
+	"TrBor.h"
+	"TrFile.h"
+	"TrObject.h"
+	"TrFrame.h"
+	"TrArr.h"
+	"TrVector.h"
+
+1384323821 c:\users\admin\desktop\translator\release\codeblocks project\trfile.h
+
+1383119382 c:\users\admin\desktop\translator\release\codeblocks project\trobject.h
+	"TrVar.h"
+
+1383989672 c:\users\admin\desktop\translator\release\codeblocks project\trframe.h
+	"TrString.h"
+
+1383387666 c:\users\admin\desktop\translator\release\codeblocks project\trarr.h
+	"TrString.h"
+
+1385077157 c:\users\admin\desktop\translator\release\codeblocks project\trvector.h
+	"TrVar.h"
+
+1384482410 c:\users\admin\desktop\translator\release\codeblocks project\trcompiler.h
+	<stdio.h>
+	<stdlib.h>
+	"TrBor.h"
+	<vector>
+
+1385078584 c:\users\admin\desktop\translator\release\codeblocks project\trmachine.h
+	"assign_functions.h"
+	"skip_functions.h"
+
+1384462188 c:\users\admin\desktop\translator\release\codeblocks project\assign_functions.h
+
+1384458084 c:\users\admin\desktop\translator\release\codeblocks project\skip_functions.h
+
